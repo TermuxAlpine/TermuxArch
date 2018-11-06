@@ -4,3 +4,13 @@
 [submodule "scripts/frags/dfa"]
 	path = scripts/frags/dfa
 	url = https://github.com/sdrausty/dfa
+
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/sdrausty/scriptsTermuxArch
+[submodule "imgs"]
+	path = imgs
+	url = https://github.com/sdrausty/imgsTermuxArch
+[submodule "gen"]
+	path = gen
+	url = https://github.com/sdrausty/gensTermuxArch

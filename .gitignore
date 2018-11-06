@@ -1,2 +1,5 @@
 *org
 *.swp
+setupTermuxArchConfigs.sh
+setupTermuxArchSysinfo*
+*~
